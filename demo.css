@@ -31,7 +31,7 @@ b
 
 #Wrapper
 {
-    background: url('images/background.png') no-repeat top center;
+   /* background: url('images/background.png') no-repeat top center;*/
     min-height: 720px;
 }
 
